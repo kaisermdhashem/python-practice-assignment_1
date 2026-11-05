@@ -25,12 +25,13 @@ This repository contains two Python practice problems.
 - F-Strings
 
 ## Repository Structure
+```
 python-practice-assignment/
 │
-├── personal_calculator.py
-├── grade_calculator.py
+├── personal_calculator.ipynb
+├── grade_calculator.ipynb
 └── README.md
-
+```
 ## Author
 Abu Kaiser Mohammad Hashem
 
