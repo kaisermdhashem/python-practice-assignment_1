@@ -1,5 +1,3 @@
-# python-practice-assignment
-
 # Python Practice Assignment
 
 ## Django Batch-14 Module-1
@@ -25,6 +23,13 @@ This repository contains two Python practice problems.
 - User Input
 - Arithmetic Operators
 - F-Strings
+
+## Repository Structure
+python-practice-assignment/
+│
+├── personal_calculator.py
+├── grade_calculator.py
+└── README.md
 
 ## Author
 Abu Kaiser Mohammad Hashem
