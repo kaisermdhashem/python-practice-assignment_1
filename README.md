@@ -1,2 +1,31 @@
 # python-practice-assignment
-Module 1 Assignment of Full Stack Web Development with Python, Django, React and AI Course (Ostad)
+
+# Python Practice Assignment
+
+## Django Batch-14 Module-1
+
+This repository contains two Python practice problems.
+
+### Problem 1: Personal Information & Simple Calculator
+- Takes user's name and age.
+- Takes two numbers.
+- Performs addition, subtraction, multiplication and division.
+- Displays results using f-strings.
+
+### Problem 2: Student Grade Calculator
+- Takes student's name.
+- Takes marks for three subjects.
+- Calculates average marks.
+- Determines final grade using conditional statements.
+- Validates marks between 0 and 100.
+
+## Technologies Used
+- Python
+- Conditional Statements
+- User Input
+- Arithmetic Operators
+- F-Strings
+
+## Author
+Abu Kaiser Mohammad Hashem
+
